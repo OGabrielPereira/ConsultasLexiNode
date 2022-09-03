@@ -1,0 +1,389 @@
+ const database = 'LexiNode';
+use(database);
+
+// Inserir dados nas tabelas para execução de testes de consultas (no mínimo 10 linhas em cada tabela);
+
+// Collection Paper
+
+db.Paper.insertMany([
+    {
+        "title": "Aplicação de conceitos de gamificação para seleção de alunos em projetos de pesquisa e extensão",
+        "journal_title": null,
+        "research_field": "Educação",
+        "year": 2016,
+        "international": 0,
+        "web_link": null,
+        "abstract": "Este artigo relata a aplicação de conceitos e elementos da gamificação sobre um ambiente acadêmico com o propósito de auxiliar a seleção de alunos em projetos de pesquisa e extensão. Para isso, foi necessário, primeiramente, estabelecer o que é gamificação, estudar e compreender o ambiente acadêmico, por meio de um questionário aplicado aos seus atores, e determinar de que maneira a gamificação beneficiaria o processo atual para, que então, se iniciasse o desenvolvimento da aplicação de auxilio à tomada de decisão. Os resultados obtidos sugerem que o sistema foi capaz de formalizar o processo e auxiliar a seleção de novos alunos, além de motivar o aprendizado.", 
+        "keywords": [
+            "IT-CMF",
+            "Business Process Management",
+            "Fábrica de Software",
+        ],
+        "authors": [
+            {
+                "name": "Fábio Longo de Moura",
+                "email": "ldmfabio@gmail.com",
+                "institution": "IFC Araquari"   
+            },
+            {
+                "name": "Victor Freitas de Azeredo Barros",
+                "email": "vfbarros@gmail.com",
+                "institution": "Universidade do Minho"   
+            },
+            {
+                "name": "Vitor Figueredo",
+                "email": "vitor.figueredo@gmail.com",
+                "institution": "IFC Araquari"   
+            },
+        ]  
+    },
+    {
+        "title": "Avaliação da qualidade da informação: Um estudo de caso",
+        "journal_title": null,
+        "research_field": "Educação",
+        "year": 2014,
+        "international": 1,
+        "web_link": null,
+        "abstract": "The technological era has revolutionized business. Today, organizations need to deal with increased information. Information that, if not used properly, endanger the results of decisions. However, if used properly, it helps in decision-making. Factor for this to happen, it is essential to have quality information. This study has the objective to make an assessment of the quality of information, derived from a computer application. For the analysis, the concept of categories and dimensions of information quality, proposed by Wang will be used. The result presented by the research indicates that, for users, information quality is relatively good, but needs attention to some dimensions for success and greater assertiveness in decision-making.", 
+        "keywords": [
+            "dimensions of information quality",
+            "information",
+            "information quality",
+        ],
+        "authors": [
+            {
+                "name": "Fábio Longo de Moura",
+                "email": "ldmfabio@gmail.com",
+                "institution": "IFC Araquari" 
+            },
+            {
+                "name": "Victor Freitas de Azeredo Barros",
+                "email": "vfbarros@gmail.com",
+                "institution": "Universidade do Minho" 
+            },
+        ]  
+    },
+    {
+        "title": "Educação ambiental no contexto tecnológico: Criação de um fliperama utilizando lixo eletrônico",
+        "journal_title": null,
+        "research_field": "Educação",
+        "year": 2013,
+        "international": 1,
+        "web_link": null,
+        "abstract": "The Education in the classroom needs novelties more attractive to students. An ever more intense student with content enables better understanding and presents new opportunities for application of knowledge. In a computer technician course, professional area always in evidence, it becomes necessary to engage students with content related to other fields of knowledge, such as the environment. This work combines these students an overview involving multidisciplinary technological content, environmental as well as social. This article reports the development of a didactic pedagogical approach in the discipline of Research in Computer Science at the Federal Institute of Santa Catarina (IFC) - Campus Araquari in Santa Catarina, SC, Brazil, focused on the development of a pinball using discarded materials.", 
+        "keywords": [
+            "technological advancement",
+            "environmental awareness",
+            "education",
+            "classroom"
+        ],
+        "authors": [
+            {
+                "name": "Fábio Longo de Moura",
+                "email": "ldmfabio@gmail.com",
+                "institution": "IFC Araquari" 
+            },
+            {
+                "name": "Victor Freitas de Azeredo Barros",
+                "email": "vfbarros@gmail.com",
+                "institution": "Universidade do Minho" 
+            },
+        ]  
+    },
+    {
+        "title": "Aplicação do modelo de aceitação de tecnologia para avaliar a aceitação e uso de software ERP",
+        "journal_title": null,
+        "research_field": "ERP",
+        "year": 2014,
+        "international": 1,
+        "web_link": null,
+        "abstract": "The ERP process adoption directly influences the effective use of information by all sectors of the organization, allowing reaching the expected goals by managers. However, for this system to be applied effectively in the organization, it is necessary to analyze the level of acceptance of this technology by all sectors of the organization. From these assumptions, this article aims to analyze the level of acceptance of ERP, implemented for more than four years in a company of thermoplastic injection, located in Brazil. For this analysis, the TAM model (Acceptance Technology Model) was used to aid in the identification of issues related to acceptance and use of the ERP. To collect data, a questionnaire containing 29 questions was applied daily in the organization for a group of 30 employees using the ERP. It was possible to identify the Perceived Ease of Use Perceived Usefulness interfered in the ERP, affecting the Real Use of System.", 
+        "keywords": [
+            "technology adoption",
+            "ERP",
+            "technology usage",
+            "TAM"
+        ],
+        "authors": [
+            {
+                "name": "Fábio Longo de Moura",
+                "email": "ldmfabio@gmail.com",
+                "institution": "IFC Araquari" 
+            },
+            {
+                "name": "Victor Freitas de Azeredo Barros",
+                "email": "vfbarros@gmail.com",
+                "institution": "Universidade do Minho" 
+            },
+        ]  
+    },
+    {
+        "title": "",
+        "journal_title": "",
+        "research_field": "",
+        "year": 2016,
+        "international": 0,
+        "web_link": "",
+        "abstract": "", 
+        "keywords": [
+            "",
+            "",
+            "",
+        ],
+        "authors": [
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+        ]  
+    },
+    {
+        "title": "",
+        "journal_title": "",
+        "research_field": "",
+        "year": 2016,
+        "international": 0,
+        "web_link": "",
+        "abstract": "", 
+        "keywords": [
+            "",
+            "",
+            "",
+        ],
+        "authors": [
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+        ]  
+    },
+    {
+        "title": "",
+        "journal_title": "",
+        "research_field": "",
+        "year": 2016,
+        "international": 0,
+        "web_link": "",
+        "abstract": "", 
+        "keywords": [
+            "",
+            "",
+            "",
+        ],
+        "authors": [
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+        ]  
+    },
+    {
+        "title": "",
+        "journal_title": "",
+        "research_field": "",
+        "year": 2016,
+        "international": 0,
+        "web_link": "",
+        "abstract": "", 
+        "keywords": [
+            "",
+            "",
+            "",
+        ],
+        "authors": [
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+        ]  
+    },
+    {
+        "title": "",
+        "journal_title": "",
+        "research_field": "",
+        "year": 2016,
+        "international": 0,
+        "web_link": "",
+        "abstract": "", 
+        "keywords": [
+            "",
+            "",
+            "",
+        ],
+        "authors": [
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+        ]  
+    },
+    {
+        "title": "",
+        "journal_title": "",
+        "research_field": "",
+        "year": 2016,
+        "international": 0,
+        "web_link": "",
+        "abstract": "", 
+        "keywords": [
+            "",
+            "",
+            "",
+        ],
+        "authors": [
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+            {
+                "name": "",
+                "email": "",
+                "institution": "" 
+            },
+        ]  
+    },
+])
+
+// Collection User
+
+db.User.insertMany([
+    {
+        "name": "",
+        "nickname": "",
+        "email": "",
+    },
+    {
+        "name": "",
+        "nickname": "",
+        "email": "",
+    },
+    {
+        "name": "",
+        "nickname": "",
+        "email": "",
+        "institution": "",
+        "isAuthor": true,
+        "author_role": "main",
+        "city": "",
+        "country": "",
+        "field": ""
+    },
+    {
+        "name": "",
+        "nickname": "",
+        "email": "",
+        "institution": "",
+        "isAuthor": true,
+        "author_role": "main",
+        "city": "",
+        "country": "",
+        "field": ""
+    },
+    {
+        "name": "",
+        "nickname": "",
+        "email": "",
+    },
+    {
+        "name": "",
+        "nickname": "",
+        "email": "",
+    },
+    {
+        "name": "",
+        "nickname": "",
+        "email": "",
+    },
+    {
+        "name": "",
+        "nickname": "",
+        "email": "",
+        "institution": "",
+        "isAuthor": true,
+        "author_role": "main",
+        "city": "",
+        "country": "",
+        "field": ""
+    },
+    {
+        "name": "",
+        "nickname": "",
+        "email": "",
+    },
+    {
+        "name": "",
+        "nickname": "",
+        "email": "",
+        "institution": "",
+        "isAuthor": true,
+        "author_role": "main",
+        "city": "",
+        "country": "",
+        "field": ""
+    },
+])
+
+
+
+

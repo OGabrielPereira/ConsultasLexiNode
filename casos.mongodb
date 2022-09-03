@@ -1,0 +1,40 @@
+const database = 'LexiNode';
+use(database);
+
+// Selecionar três casos de uso mais importantes (que foram desenvolvidos as telas e modelados no projeto descrito),
+// e construir as consultas SQL que serão utilizadas para construção das funcionalidades;
+
+// UC001 - Autenticação
+// O usuário se autentica pelo Google e após isso os seguintes dados são enviados ao banco:
+
+db.User.find({
+    "email": "ogabrielpereira@pm.me" // if false -> InsertOne
+})
+
+db.User.InsertOne({
+    "name": "Gabriel",
+    "nickname": "OGabrielPereira",
+    "email": "ogabrielpereira@pm.me"
+})
+
+// UC002 - Publicar novos Artigos
+
+
+
+// UC003 - Registro de Autores
+
+db.User.find({
+    "email": "ogabrielpereira@pm.me" // if false -> InsertOne
+})
+
+db.User.InsertOne({
+    "name": "",
+    "nickname": "",
+    "email": "",
+    "institution": "",
+    "isAuthor": true,
+    "author_role": "main",
+    "city": "",
+    "country": "",
+    "field": ""
+})
