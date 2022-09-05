@@ -13,7 +13,7 @@ db.User.find({
 
 db.User.InsertOne({
     "name": "Gabriel",
-    "picture": "",
+    "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
     "nickname": "OGabrielPereira",
     "email": "ogabrielpereira@gmail.com"
 })
@@ -64,7 +64,7 @@ db.User.find({
 
 db.User.InsertOne({
     "name": "Fábio Longo de Moura",
-    "picture": "",
+    "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
     "nickname": "ldmfabio",
     "email": "ldmfabio@gmail.com",
     "institution": "IFC Araquari",
