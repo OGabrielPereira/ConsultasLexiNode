@@ -13,28 +13,63 @@ db.User.find({
 
 db.User.InsertOne({
     "name": "Gabriel",
+    "picture": "",
     "nickname": "OGabrielPereira",
     "email": "ogabrielpereira@pm.me"
 })
 
 // UC002 - Publicar novos Artigos
 
-
+db.Paper.InsertOne({
+     {
+        "title": "Modelos de evolução da adoção e utilização de tecnologias e sistemas de informação",
+        "journal_title": null,
+        "research_field": "Sistemas de Informação",
+        "year": 2014,
+        "international": 1,
+        "web_link": "https://hdl.handle.net/1822/34908",
+        "abstract": "", 
+        "keywords": [
+            "Modelos de evolução",
+            "Estádios de crescimento",
+            "Tecnologias e sistemas de informação",
+            "Modelos de maturidade",
+            "Organization evolution model",
+            "Stages of growth",
+            "Information systems and technologies",
+            "Maturity models"
+        ],
+        "authors": [
+            {
+                "name": "Fábio Longo de Moura",
+                "email": "ldmfabio@gmail.com",
+                "institution": "IFC Araquari",
+                "author_role": "main"
+            },
+            {
+                "name": "Filipe de Sá-Soares",
+                "email": "fss@dsi.uminho.pt",
+                "institution": "Universidade do Minho",
+                "author_role": "collaborator"
+            },
+        ]  
+    },
+})
 
 // UC003 - Registro de Autores
 
 db.User.find({
-    "email": "ogabrielpereira@pm.me" // if false -> InsertOne
+    "email": "ldmfabio@ifc.edu.br" // if false -> InsertOne
 })
 
 db.User.InsertOne({
-    "name": "",
-    "nickname": "",
-    "email": "",
-    "institution": "",
+    "name": "Fábio Longo de Moura",
+    "picture": "",
+    "nickname": "ldmfabio",
+    "email": "ldmfabio@gmail.com",
+    "institution": "IFC Araquari",
     "isAuthor": true,
-    "author_role": "main",
-    "city": "",
-    "country": "",
-    "field": ""
+    "city": "Araquari",
+    "country": "SC",
+    "field": "Information Systems"
 })
