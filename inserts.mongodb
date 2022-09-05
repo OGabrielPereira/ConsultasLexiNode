@@ -367,15 +367,15 @@ db.User.insertMany([
         "field": "Information Systems"
     },
     {
-        "name": "",
+        "name": "Filipe de Sá-Soares",
         "picture": "",
         "nickname": "",
-        "email": "",
-        "institution": "",
+        "email": "fss@dsi.uminho.pt",
+        "institution": "Universidade do Minho",
         "isAuthor": true,
-        "city": "",
-        "country": "",
-        "field": ""
+        "city": "Guimarães",
+        "country": "Portugal",
+        "field": "Information Systems"
     },
     {
         "name": "",
