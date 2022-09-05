@@ -23,17 +23,20 @@ db.Paper.insertMany([
             {
                 "name": "Fábio Longo de Moura",
                 "email": "ldmfabio@gmail.com",
-                "institution": "IFC Araquari"   
+                "institution": "IFC Araquari",  
+                "author_role": "main" 
             },
             {
                 "name": "Victor Freitas de Azeredo Barros",
                 "email": "vfbarros@gmail.com",
-                "institution": "Universidade do Minho"   
+                "institution": "Universidade do Minho",   
+                "author_role": "collaborator"
             },
             {
                 "name": "Vitor Figueredo",
                 "email": "vitor.figueredo@gmail.com",
-                "institution": "IFC Araquari"   
+                "institution": "IFC Araquari",
+                "author_role": "collaborator"   
             },
         ]  
     },
@@ -54,12 +57,14 @@ db.Paper.insertMany([
             {
                 "name": "Fábio Longo de Moura",
                 "email": "ldmfabio@gmail.com",
-                "institution": "IFC Araquari" 
+                "institution": "IFC Araquari", 
+                "author_role": "main"
             },
             {
                 "name": "Victor Freitas de Azeredo Barros",
                 "email": "vfbarros@gmail.com",
-                "institution": "Universidade do Minho" 
+                "institution": "Universidade do Minho",
+                "author_role": "collaborator" 
             },
         ]  
     },
@@ -81,12 +86,14 @@ db.Paper.insertMany([
             {
                 "name": "Fábio Longo de Moura",
                 "email": "ldmfabio@gmail.com",
-                "institution": "IFC Araquari" 
+                "institution": "IFC Araquari",
+                "author_role": "main" 
             },
             {
                 "name": "Victor Freitas de Azeredo Barros",
                 "email": "vfbarros@gmail.com",
-                "institution": "Universidade do Minho" 
+                "institution": "Universidade do Minho",
+                "author_role": "collaborator" 
             },
         ]  
     },
@@ -108,12 +115,14 @@ db.Paper.insertMany([
             {
                 "name": "Fábio Longo de Moura",
                 "email": "ldmfabio@gmail.com",
-                "institution": "IFC Araquari" 
+                "institution": "IFC Araquari",
+                "author_role": "main" 
             },
             {
                 "name": "Victor Freitas de Azeredo Barros",
                 "email": "vfbarros@gmail.com",
-                "institution": "Universidade do Minho" 
+                "institution": "Universidade do Minho",
+                "author_role": "collaborator" 
             },
         ]  
     },
@@ -138,32 +147,38 @@ db.Paper.insertMany([
             {
                 "name": "Fábio Longo de Moura",
                 "email": "ldmfabio@gmail.com",
-                "institution": "IFC Araquari"
+                "institution": "IFC Araquari",
+                "author_role": "main"
             },
             {
                 "name": "Nilton Takagi",
                 "email": "nilton.takagi@ufmt.edu.br",
-                "institution": "Universidade Federal do Mato Grosso" 
+                "institution": "Universidade Federal do Mato Grosso",
+                "author_role": "main" 
             },
             {
                 "name": "Joice Seleme Mota",
                 "email": "joice.mota@ifc.edu.br",
-                "institution": "IFC Araquari" 
+                "institution": "IFC Araquari",
+                "author_role": "collaborator" 
             },
             {
                 "name": "Ilka Kawashita",
                 "email": "ikawashi@gmail.com",
-                "institution": "Universidade do Minho" 
+                "institution": "Universidade do Minho",
+                "author_role": "collaborator" 
             },
             {
                 "name": "Filipe de Sá-Soares",
                 "email": "fss@dsi.uminho.pt",
-                "institution": "Universidade do Minho" 
+                "institution": "Universidade do Minho",
+                "author_role": "collaborator" 
             },
             {
                 "name": "Heloisa Kubis",
                 "email": "heloisakubis@gmail.com",
-                "institution": "IFC Araquari" 
+                "institution": "IFC Araquari",
+                "author_role": "collaborator" 
             },
             
             
@@ -189,12 +204,14 @@ db.Paper.insertMany([
             {
                 "name": "Fábio Longo de Moura",
                 "email": "ldmfabio@gmail.com",
-                "institution": "IFC Araquari"
+                "institution": "IFC Araquari",
+                "author_role": "main"
             },
             {
                 "name": "Filipe de Sá-Soares",
                 "email": "fss@dsi.uminho.pt",
-                "institution": "Universidade do Minho"
+                "institution": "Universidade do Minho",
+                "author_role": "collaborator"
             },
 
         ]  
@@ -219,12 +236,14 @@ db.Paper.insertMany([
             {
                 "name": "Fábio Longo de Moura",
                 "email": "ldmfabio@gmail.com",
-                "institution": "IFC Araquari"
+                "institution": "IFC Araquari",
+                "author_role": "main"
             },
             {
                 "name": "Filipe de Sá-Soares",
                 "email": "fss@dsi.uminho.pt",
-                "institution": "Universidade do Minho"
+                "institution": "Universidade do Minho",
+                "author_role": "collaborator"
             },
         ]  
     },
@@ -246,12 +265,14 @@ db.Paper.insertMany([
             {
                 "name": "Fábio Longo de Moura",
                 "email": "ldmfabio@gmail.com",
-                "institution": "IFC Araquari"
+                "institution": "IFC Araquari",
+                "author_role": "main"
             },
             {
                 "name": "Filipe de Sá-Soares",
                 "email": "fss@dsi.uminho.pt",
-                "institution": "Universidade do Minho"
+                "institution": "Universidade do Minho",
+                "author_role": "collaborator"
             },
         ]  
     },
