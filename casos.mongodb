@@ -8,14 +8,14 @@ use(database);
 // O usuário se autentica pelo Google e após isso os seguintes dados são enviados ao banco:
 
 db.User.find({
-    "email": "ogabrielpereira@pm.me" // if false -> InsertOne
+    "email": "ogabrielpereira@gmail.com" // if false -> InsertOne
 })
 
 db.User.InsertOne({
     "name": "Gabriel",
     "picture": "",
     "nickname": "OGabrielPereira",
-    "email": "ogabrielpereira@pm.me"
+    "email": "ogabrielpereira@gmail.com"
 })
 
 // UC002 - Publicar novos Artigos

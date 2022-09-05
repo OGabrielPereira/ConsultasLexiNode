@@ -1,4 +1,4 @@
- const database = 'LexiNode';
+const database = 'LexiNode';
 use(database);
 
 // Inserir dados nas tabelas para execução de testes de consultas (no mínimo 10 linhas em cada tabela);
@@ -345,19 +345,19 @@ db.Paper.insertMany([
 db.User.insertMany([
     {
         "name": "Gabriel L. Pereira",
-        "picture": "",
+        "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
         "nickname": "gabrielglpglpglp",
         "email": "gabrielglpglpglp@gmail.com",
     },
     {
         "name": "Raphael Soares",
-        "picture": "",
+        "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
         "nickname": "soaresphaell",
         "email": "soaresphaell@gmail.com",
     },
     {
         "name": "Fábio Longo de Moura",
-        "picture": "",
+        "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
         "nickname": "ldmfabio",
         "email": "ldmfabio@gmail.com",
         "institution": "IFC Araquari",
@@ -368,8 +368,8 @@ db.User.insertMany([
     },
     {
         "name": "Filipe de Sá-Soares",
-        "picture": "",
-        "nickname": "",
+        "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+        "nickname": "fss",
         "email": "fss@dsi.uminho.pt",
         "institution": "Universidade do Minho",
         "isAuthor": true,
@@ -378,53 +378,49 @@ db.User.insertMany([
         "field": "Information Systems"
     },
     {
-        "name": "",
-        "picture": "",
-        "nickname": "",
-        "email": "",
+        "name": "João Vitor Grünfeld de Luca",
+        "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+        "nickname": "joãodeluca",
+        "email": "joãodeluca@gmail.com",
     },
     {
-        "name": "",
-        "picture": "",
-        "nickname": "",
-        "email": "",
+        "name": "João Felipi Cardoso",
+        "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+        "nickname": "joaofelipi877",
+        "email": "joaofelipi877@gmail.com",
     },
     {
-        "name": "",
-        "picture": "",
-        "nickname": "",
-        "email": "",
+        "name": "Vinícius Dácio",
+        "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+        "nickname": "vinidacio",
+        "email": "vinidacio@gmail.com",
     },
     {
-        "name": "",
-        "picture": "",
-        "nickname": "",
-        "email": "",
-        "institution": "",
+        "name": "Joice Seleme Mota",
+        "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+        "nickname": "joice.mota",
+        "email": "joice.mota@ifc.edu.br",
+        "institution": "IFC Araquari",
         "isAuthor": true,
-        "city": "",
-        "country": "",
-        "field": ""
+        "city": "Araquari",
+        "country": "SC",
+        "field": "Information Systems"
     },
     {
-        "name": "",
-        "picture": "",
-        "nickname": "",
-        "email": "",
+        "name": "Gabriela de Andrade",
+        "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+        "nickname": "gabedeandrade",
+        "email": "gabedeandrade@gmail.com",
     },
     {
-        "name": "",
-        "picture": "",
-        "nickname": "",
-        "email": "",
-        "institution": "",
+        "name": "Victor Freitas de Azeredo Barros",
+        "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+        "nickname": "vfbarros",
+        "email": "vfbarros@gmail.com",
+        "institution": "Universidade do Minho",
         "isAuthor": true,
-        "city": "",
-        "country": "",
-        "field": ""
+        "city": "Guimarães",
+        "country": "Portugal",
+        "field": "Information Systems"
     },
 ])
-
-
-
-
