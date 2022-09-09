@@ -1,0 +1,96 @@
+{
+   "_id":{
+      "$oid":"630d01d968060a4e39c0aa31"
+   },
+   "name":"Gabriel Pereira",
+   "nickname":"ogabrielpereiraa7",
+   "email":"ogabrielpereiraa7@gmail.com"
+}{
+   "_id":{
+      "$oid":"631b367490779da46c4751bc"
+   },
+   "name":"Ven",
+   "picture":"https://lh3.googleusercontent.com/a-/AFdZucrnLdKFTgi6mm4CDAkeM_S2PHKxLC88dOqwj-Pxrg=s96-c",
+   "nickname":"venienn",
+   "email":"venienn@gmail.com"
+}{
+   "_id":{
+      "$oid":"631b4746fcf842ef9a6d9da3"
+   },
+   "name":"Gabriel L. Pereira",
+   "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+   "nickname":"gabrielglpglpglp",
+   "email":"gabrielglpglpglp@gmail.com"
+}{
+   "_id":{
+      "$oid":"631b4746fcf842ef9a6d9da4"
+   },
+   "name":"Raphael Soares",
+   "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+   "nickname":"soaresphaell",
+   "email":"soaresphaell@gmail.com"
+}{
+   "_id":{
+      "$oid":"631b4746fcf842ef9a6d9da5"
+   },
+   "name":"Fábio Longo de Moura",
+   "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+   "nickname":"ldmfabio",
+   "email":"ldmfabio@gmail.com"
+}{
+   "_id":{
+      "$oid":"631b4746fcf842ef9a6d9da6"
+   },
+   "name":"Filipe de Sá-Soares",
+   "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+   "nickname":"fss",
+   "email":"fss@dsi.uminho.pt"
+}{
+   "_id":{
+      "$oid":"631b4746fcf842ef9a6d9da7"
+   },
+   "name":"João Vitor Grünfeld de Luca",
+   "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+   "nickname":"joãodeluca",
+   "email":"joãodeluca@gmail.com"
+}{
+   "_id":{
+      "$oid":"631b4746fcf842ef9a6d9da8"
+   },
+   "name":"João Felipi Cardoso",
+   "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+   "nickname":"joaofelipi877",
+   "email":"joaofelipi877@gmail.com"
+}{
+   "_id":{
+      "$oid":"631b4746fcf842ef9a6d9da9"
+   },
+   "name":"Vinícius Dácio",
+   "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+   "nickname":"vinidacio",
+   "email":"vinidacio@gmail.com"
+}{
+   "_id":{
+      "$oid":"631b4746fcf842ef9a6d9daa"
+   },
+   "name":"Joice Seleme Mota",
+   "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+   "nickname":"joice.mota",
+   "email":"joice.mota@ifc.edu.br"
+}{
+   "_id":{
+      "$oid":"631b4746fcf842ef9a6d9dab"
+   },
+   "name":"Gabriela de Andrade",
+   "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+   "nickname":"gabedeandrade",
+   "email":"gabedeandrade@gmail.com"
+}{
+   "_id":{
+      "$oid":"631b4746fcf842ef9a6d9dac"
+   },
+   "name":"Victor Freitas de Azeredo Barros",
+   "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+   "nickname":"vfbarros",
+   "email":"vfbarros@gmail.com"
+}

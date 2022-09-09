@@ -1,0 +1,450 @@
+{
+   "_id":{
+      "$oid":"631b4745fcf842ef9a6d9d99"
+   },
+   "title":"Aplicação de conceitos de gamificação para seleção de alunos em projetos de pesquisa e extensão",
+   "journal_title":null,
+   "research_field":"Educação",
+   "year":2016,
+   "international":0,
+   "web_link":null,
+   "abstract":"Este artigo relata a aplicação de conceitos e elementos da gamificação sobre um ambiente acadêmico com o propósito de auxiliar a seleção de alunos em projetos de pesquisa e extensão. Para isso, foi necessário, primeiramente, estabelecer o que é gamificação, estudar e compreender o ambiente acadêmico, por meio de um questionário aplicado aos seus atores, e determinar de que maneira a gamificação beneficiaria o processo atual para, que então, se iniciasse o desenvolvimento da aplicação de auxilio à tomada de decisão. Os resultados obtidos sugerem que o sistema foi capaz de formalizar o processo e auxiliar a seleção de novos alunos, além de motivar o aprendizado.",
+   "keywords":[
+      "IT-CMF",
+      "Business Process Management",
+      "Fábrica de Software"
+   ],
+   "authors":[
+      {
+         "name":"Fábio Longo de Moura",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ldmfabio@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"main",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Victor Freitas de Azeredo Barros",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"vfbarros@gmail.com",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Vitor Figueredo",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"vitor.figueredo@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"collaborator",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      }
+   ]
+}{
+   "_id":{
+      "$oid":"631b4745fcf842ef9a6d9d9a"
+   },
+   "title":"Avaliação da qualidade da informação: Um estudo de caso",
+   "journal_title":null,
+   "research_field":"Educação",
+   "year":2014,
+   "international":1,
+   "web_link":null,
+   "abstract":"The technological era has revolutionized business. Today, organizations need to deal with increased information. Information that, if not used properly, endanger the results of decisions. However, if used properly, it helps in decision-making. Factor for this to happen, it is essential to have quality information. This study has the objective to make an assessment of the quality of information, derived from a computer application. For the analysis, the concept of categories and dimensions of information quality, proposed by Wang will be used. The result presented by the research indicates that, for users, information quality is relatively good, but needs attention to some dimensions for success and greater assertiveness in decision-making.",
+   "keywords":[
+      "dimensions of information quality",
+      "information",
+      "information quality"
+   ],
+   "authors":[
+      {
+         "name":"Fábio Longo de Moura",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ldmfabio@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"main",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Victor Freitas de Azeredo Barros",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"vfbarros@gmail.com",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      }
+   ]
+}{
+   "_id":{
+      "$oid":"631b4745fcf842ef9a6d9d9b"
+   },
+   "title":"Educação ambiental no contexto tecnológico: Criação de um fliperama utilizando lixo eletrônico",
+   "journal_title":null,
+   "research_field":"Educação",
+   "year":2013,
+   "international":1,
+   "web_link":null,
+   "abstract":"The Education in the classroom needs novelties more attractive to students. An ever more intense student with content enables better understanding and presents new opportunities for application of knowledge. In a computer technician course, professional area always in evidence, it becomes necessary to engage students with content related to other fields of knowledge, such as the environment. This work combines these students an overview involving multidisciplinary technological content, environmental as well as social. This article reports the development of a didactic pedagogical approach in the discipline of Research in Computer Science at the Federal Institute of Santa Catarina (IFC) - Campus Araquari in Santa Catarina, SC, Brazil, focused on the development of a pinball using discarded materials.",
+   "keywords":[
+      "technological advancement",
+      "environmental awareness",
+      "education",
+      "classroom"
+   ],
+   "authors":[
+      {
+         "name":"Fábio Longo de Moura",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ldmfabio@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"main",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Victor Freitas de Azeredo Barros",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"vfbarros@gmail.com",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      }
+   ]
+}{
+   "_id":{
+      "$oid":"631b4745fcf842ef9a6d9d9c"
+   },
+   "title":"Aplicação do modelo de aceitação de tecnologia para avaliar a aceitação e uso de software ERP",
+   "journal_title":null,
+   "research_field":"ERP",
+   "year":2014,
+   "international":1,
+   "web_link":null,
+   "abstract":"The ERP process adoption directly influences the effective use of information by all sectors of the organization, allowing reaching the expected goals by managers. However, for this system to be applied effectively in the organization, it is necessary to analyze the level of acceptance of this technology by all sectors of the organization. From these assumptions, this article aims to analyze the level of acceptance of ERP, implemented for more than four years in a company of thermoplastic injection, located in Brazil. For this analysis, the TAM model (Acceptance Technology Model) was used to aid in the identification of issues related to acceptance and use of the ERP. To collect data, a questionnaire containing 29 questions was applied daily in the organization for a group of 30 employees using the ERP. It was possible to identify the Perceived Ease of Use Perceived Usefulness interfered in the ERP, affecting the Real Use of System.",
+   "keywords":[
+      "technology adoption",
+      "ERP",
+      "technology usage",
+      "TAM"
+   ],
+   "authors":[
+      {
+         "name":"Fábio Longo de Moura",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ldmfabio@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"main",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Victor Freitas de Azeredo Barros",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"vfbarros@gmail.com",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      }
+   ]
+}{
+   "_id":{
+      "$oid":"631b4745fcf842ef9a6d9d9d"
+   },
+   "title":"IT-CMF and BPM Critical Capability: Improving Software Development Lab on academic context",
+   "journal_title":null,
+   "research_field":"IT-CMF",
+   "year":2021,
+   "international":1,
+   "web_link":null,
+   "abstract":"In order to generate better results, organizations are required to better manage and develop their processes. The role of Business Process Management (BPM) discipline and the exploitation of the organization’s Information Technology (IT) capabilities are perceived as important instruments to the improvement of business processes. An empirical study was conducted in the Software Development Lab of a Higher Education Institution using the Information Technology Capability Maturity Framework (IT-CMF) to diagnose the current BPM maturity level and to improve its processes. This Software Development Lab bridges the gap between academia and industry, developing students’ skills for the challenges of the workplace. One contribution to the study is a list of applied questions and their relationship with IT-CMF Capability Building Blocks that can serve as a basis for other practitioners. Another contribution is a list of actions to be performed by the Lab senior management to increase the maturity level of the Lab management of business processes.",
+   "keywords":[
+      "IT-CMF",
+      "Business Process Management",
+      "BPM",
+      "software development",
+      "higher education",
+      "competency",
+      "project management"
+   ],
+   "authors":[
+      {
+         "name":"Fábio Longo de Moura",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ldmfabio@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"main",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Nilton Takagi",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"nilton.takagi@ufmt.edu.br",
+         "institution":"Universidade Federal do Mato Grosso",
+         "author_role":"main",
+         "city":"Cuiabá",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Joice Seleme Mota",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"joice.mota@ifc.edu.br",
+         "institution":"IFC Araquari",
+         "author_role":"collaborator",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Ilka Kawashita",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ikawashi@gmail.com",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Filipe de Sá-Soares",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"fss@dsi.uminho.pt",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Heloisa Kubis",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"heloisakubis@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"collaborator",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      }
+   ]
+}{
+   "_id":{
+      "$oid":"631b4745fcf842ef9a6d9d9e"
+   },
+   "title":"A network analysis of IT-CMF",
+   "journal_title":null,
+   "research_field":"Network analysis",
+   "year":2021,
+   "international":1,
+   "web_link":null,
+   "abstract":"Information Systems and Technology (IST) have been a great support in meeting business challenges, providing organizational agents with information to better perform their tasks. However, IST also requires attention to ensure that they continue to be valuable to all areas of the enterprise. In order to help organizations get value from IST several management models have emerged. IT-CMF is a comprehensive reference to guide the evolution in 36 different areas of the organization, in terms of its relationship with IST. The adoption of IT-CMF requires managers to decide on the areas to be enhanced, in order to make better use of organizational resources to add value to the organization's business, and to find the best path for improvement of IST. To assist managers in this process, this study presents a network analysis of IT-CMF, by the use of graphs as a means to clarify development paths, which include areas to prioritize for the use of resources, and that are aligned with the objectives of the organization.",
+   "keywords":[
+      "IT-CMF",
+      "capability",
+      "competency",
+      "graph",
+      "information systems",
+      "information systems and technology"
+   ],
+   "authors":[
+      {
+         "name":"Fábio Longo de Moura",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ldmfabio@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"main",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Filipe de Sá-Soares",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"fss@dsi.uminho.pt",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      }
+   ]
+}{
+   "_id":{
+      "$oid":"631b4745fcf842ef9a6d9d9f"
+   },
+   "title":"Devising information systems and technology evolutionary paths with IT-CMF",
+   "journal_title":null,
+   "research_field":"IT-CMF",
+   "year":2021,
+   "international":1,
+   "web_link":null,
+   "abstract":"The importance of Information Systems and Technology (IST) for organizations has been recognized numerous times, whether in facilitating the achievement of strategic goals, or in overcoming operational challenges, in addition to assisting managers in decision-making processes. The sustainable extraction of value from IST requires organizations to make efforts to maintain the use of IST aligned with the organization’s objectives. IT-CMF consists of a comprehensive framework to guide the evolution of an organization’s exploitation of IST in 36 management areas. Based on this framework, several evolutionary paths for the improvement of the IST capability can be derived. The prioritization and selection among the available paths may pose a problem for organizations, especially due to the intricate relationships betwee the different areas of intervention. In this study, we resort to Graph Theory to conduct a network analysis of IT-CMF, in order to assist organizations choosing the evolutionary path with the greatest potential for improving their use of IST, taking into account their strengths, weaknesses, and priorities.",
+   "keywords":[
+      "IT-CMF",
+      "capability",
+      "competency",
+      "graph",
+      "information systems",
+      "information systems and technology"
+   ],
+   "authors":[
+      {
+         "name":"Fábio Longo de Moura",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ldmfabio@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"main",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Filipe de Sá-Soares",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"fss@dsi.uminho.pt",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      }
+   ]
+}{
+   "_id":{
+      "$oid":"631b4745fcf842ef9a6d9da0"
+   },
+   "title":"A grammar for information systems and technology competencies",
+   "journal_title":null,
+   "research_field":"Information Systems",
+   "year":2022,
+   "international":1,
+   "web_link":null,
+   "abstract":"The description of Information Systems and Technology professional competencies requires the articulation of various concepts in an integrated structure. The definitions for these concepts are not consensual and the instantiations of the concepts are written in non-standard ways. This ambiguity can have a negative impact on the characterization and evaluation of professional attributes. This work carries out an analysis of several competency frameworks and proposes the application of grammatical classes for the concepts that make up the competency structure, aiming at greater transparency and clarity in the use of the concepts. To this end, a Backus-Naur Form grammar is proposed to standardize the writing of concepts. Seeking to validate the competency grammar, Information Systems and Technology professionals reported attributes of their occupations, observing the proposed grammatical rules. Afterwards, the exercise was replicated with practitioners from four other professional areas.",
+   "keywords":[
+      "informatioin systems and technology",
+      "information systems and technology competency",
+      "competency grammar",
+      "Backus-Naur Form"
+   ],
+   "authors":[
+      {
+         "name":"Fábio Longo de Moura",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ldmfabio@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"main",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Filipe de Sá-Soares",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"fss@dsi.uminho.pt",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      }
+   ]
+}{
+   "_id":{
+      "$oid":"631b4745fcf842ef9a6d9da1"
+   },
+   "title":"A generic proposal for comopetence mapping: A case study from information systems discipline",
+   "journal_title":null,
+   "research_field":"Information Systems",
+   "year":2016,
+   "international":1,
+   "web_link":null,
+   "abstract":"",
+   "keywords":[
+      "competency",
+      "information systems",
+      "information systems and technology competency",
+      "competency mapping"
+   ],
+   "authors":[
+      {
+         "name":"Fábio Longo de Moura",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ldmfabio@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"main",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Filipe de Sá-Soares",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"fss@dsi.uminho.pt",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      }
+   ]
+}{
+   "_id":{
+      "$oid":"631b4745fcf842ef9a6d9da2"
+   },
+   "title":"Modelos de evolução da adoção e utilização de tecnologias e sistemas de informação",
+   "journal_title":null,
+   "research_field":"Sistemas de Informação",
+   "year":2014,
+   "international":1,
+   "web_link":"https://hdl.handle.net/1822/34908",
+   "abstract":"",
+   "keywords":[
+      "Modelos de evolução",
+      "Estádios de crescimento",
+      "Tecnologias e sistemas de informação",
+      "Modelos de maturidade",
+      "Organization evolution model",
+      "Stages of growth",
+      "Information systems and technologies",
+      "Maturity models"
+   ],
+   "authors":[
+      {
+         "name":"Fábio Longo de Moura",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"ldmfabio@gmail.com",
+         "institution":"IFC Araquari",
+         "author_role":"main",
+         "city":"Araquari",
+         "country":"Brasil",
+         "field":"Sistemas de Informação"
+      },
+      {
+         "name":"Filipe de Sá-Soares",
+         "picture":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
+         "email":"fss@dsi.uminho.pt",
+         "institution":"Universidade do Minho",
+         "author_role":"collaborator",
+         "city":"Guimarães",
+         "country":"Portugal",
+         "field":"Sistemas de Informação"
+      }
+   ]
+}
