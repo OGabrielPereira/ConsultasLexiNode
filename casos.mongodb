@@ -42,15 +42,23 @@ db.Paper.InsertOne({
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "main"
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Filipe de Sá-Soares",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "fss@dsi.uminho.pt",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator"
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação"
             },
         ]  
     },
@@ -67,9 +75,4 @@ db.User.InsertOne({
     "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
     "nickname": "ldmfabio",
     "email": "ldmfabio@gmail.com",
-    "institution": "IFC Araquari",
-    "isAuthor": true,
-    "city": "Araquari",
-    "country": "SC",
-    "field": "Information Systems"
 })
