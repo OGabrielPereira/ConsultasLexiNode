@@ -22,21 +22,33 @@ db.Paper.insertMany([
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
-                "institution": "IFC Araquari",  
-                "author_role": "main" 
+                "institution": "IFC Araquari",
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Victor Freitas de Azeredo Barros",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "vfbarros@gmail.com",
-                "institution": "Universidade do Minho",   
-                "author_role": "collaborator"
+                "institution": "Universidade do Minho",
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação" 
             },
             {
                 "name": "Vitor Figueredo",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "vitor.figueredo@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "collaborator"   
+                "author_role": "collaborator",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
         ]  
     },
@@ -56,15 +68,23 @@ db.Paper.insertMany([
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
-                "institution": "IFC Araquari", 
-                "author_role": "main"
+                "institution": "IFC Araquari",
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Victor Freitas de Azeredo Barros",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "vfbarros@gmail.com",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator" 
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação" 
             },
         ]  
     },
@@ -85,15 +105,23 @@ db.Paper.insertMany([
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "main" 
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Victor Freitas de Azeredo Barros",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "vfbarros@gmail.com",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator" 
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação" 
             },
         ]  
     },
@@ -114,15 +142,23 @@ db.Paper.insertMany([
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "main" 
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Victor Freitas de Azeredo Barros",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "vfbarros@gmail.com",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator" 
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação" 
             },
         ]  
     },
@@ -146,39 +182,64 @@ db.Paper.insertMany([
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "main"
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Nilton Takagi",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "nilton.takagi@ufmt.edu.br",
                 "institution": "Universidade Federal do Mato Grosso",
-                "author_role": "main" 
+                "author_role": "main",
+                "city": "Cuiabá",
+                "country": "Brasil",
+                "field": "Sistemas de Informação" 
+
             },
             {
                 "name": "Joice Seleme Mota",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "joice.mota@ifc.edu.br",
                 "institution": "IFC Araquari",
-                "author_role": "collaborator" 
-            },
+                "author_role": "collaborator",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
+    },
             {
                 "name": "Ilka Kawashita",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ikawashi@gmail.com",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator" 
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Filipe de Sá-Soares",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "fss@dsi.uminho.pt",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator" 
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Heloisa Kubis",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "heloisakubis@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "collaborator" 
+                "author_role": "collaborator",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             
             
@@ -203,15 +264,23 @@ db.Paper.insertMany([
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "main"
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Filipe de Sá-Soares",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "fss@dsi.uminho.pt",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator"
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação"
             },
 
         ]  
@@ -235,15 +304,23 @@ db.Paper.insertMany([
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "main"
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Filipe de Sá-Soares",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "fss@dsi.uminho.pt",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator"
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação"
             },
         ]  
     },
@@ -264,15 +341,23 @@ db.Paper.insertMany([
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "main"
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Filipe de Sá-Soares",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "fss@dsi.uminho.pt",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator"
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação"
             },
         ]  
     },
@@ -293,15 +378,23 @@ db.Paper.insertMany([
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "main"
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Filipe de Sá-Soares",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "fss@dsi.uminho.pt",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator"
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação"
             },
         ]  
     },
@@ -326,15 +419,23 @@ db.Paper.insertMany([
         "authors": [
             {
                 "name": "Fábio Longo de Moura",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "ldmfabio@gmail.com",
                 "institution": "IFC Araquari",
-                "author_role": "main"
+                "author_role": "main",
+                "city": "Araquari",
+                "country": "Brasil",
+                "field": "Sistemas de Informação"
             },
             {
                 "name": "Filipe de Sá-Soares",
+                "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
                 "email": "fss@dsi.uminho.pt",
                 "institution": "Universidade do Minho",
-                "author_role": "collaborator"
+                "author_role": "collaborator",
+                "city": "Guimarães",
+                "country": "Portugal",
+                "field": "Sistemas de Informação"
             },
         ]  
     },
@@ -360,22 +461,12 @@ db.User.insertMany([
         "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
         "nickname": "ldmfabio",
         "email": "ldmfabio@gmail.com",
-        "institution": "IFC Araquari",
-        "isAuthor": true,
-        "city": "Araquari",
-        "country": "SC",
-        "field": "Information Systems"
     },
     {
         "name": "Filipe de Sá-Soares",
         "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
         "nickname": "fss",
         "email": "fss@dsi.uminho.pt",
-        "institution": "Universidade do Minho",
-        "isAuthor": true,
-        "city": "Guimarães",
-        "country": "Portugal",
-        "field": "Information Systems"
     },
     {
         "name": "João Vitor Grünfeld de Luca",
@@ -400,11 +491,6 @@ db.User.insertMany([
         "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
         "nickname": "joice.mota",
         "email": "joice.mota@ifc.edu.br",
-        "institution": "IFC Araquari",
-        "isAuthor": true,
-        "city": "Araquari",
-        "country": "SC",
-        "field": "Information Systems"
     },
     {
         "name": "Gabriela de Andrade",
@@ -417,10 +503,5 @@ db.User.insertMany([
         "picture": "https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mp&f=y",
         "nickname": "vfbarros",
         "email": "vfbarros@gmail.com",
-        "institution": "Universidade do Minho",
-        "isAuthor": true,
-        "city": "Guimarães",
-        "country": "Portugal",
-        "field": "Information Systems"
     },
 ])
